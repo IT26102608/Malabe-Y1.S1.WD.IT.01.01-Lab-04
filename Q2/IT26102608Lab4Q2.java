@@ -36,7 +36,7 @@ public class IT26102608Lab4Q2{
 		double finalMark= ((examMarks+labMarks)*50/100);
 		
 		System.out.println("");
-		System.out.print("Final Exam Mark is : " +finalMark);
+		System.out.println("Final Exam Mark is : " +finalMark);
 		
 	}
 	
